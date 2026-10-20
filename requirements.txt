@@ -1,0 +1,6 @@
+starlette>=0.37
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-dotenv>=1.0
+openai>=1.99
+pytest>=8.0
